@@ -25,7 +25,7 @@ int main()
 }
 
 ```
-![](http://)
+![](https://github.com/Raviyanto/Learning_Cplus-plus/blob/master/Flow_Control/Flowchart-if-else-2.jpg)
 
 ```
 /* Program to check whether an integer is positive or negative
