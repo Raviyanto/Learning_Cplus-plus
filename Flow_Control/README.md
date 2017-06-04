@@ -2,7 +2,7 @@
 
 ```
 /* Program to print positive number entered by the user
- *  If user enters negative number, it is skipped
+ * If user enters negative number, it is skipped
  */
 
 #include <iostream>
